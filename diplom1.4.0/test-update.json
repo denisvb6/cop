@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "title": "Морковь молодая",
+  "type": "vegetables",
+  "price": 170,
+  "rating": 8.5,
+  "poster": "/src/assets/vegetables/carrots.jpg"
+}

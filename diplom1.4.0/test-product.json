@@ -1,0 +1,8 @@
+{
+    "id": 4,
+    "title": "Морковь",
+    "type": "vegetables",
+    "price": 155,
+    "rating": 8.2,
+    "poster": "/src/assets/vegetables/carrots.jpg"
+}
